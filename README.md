@@ -9,14 +9,14 @@ An insurance policy is an arrangement by which a company undertakes to provide a
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
 
-## Dataset Description
+# Dataset Description
 
 In order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
 
 You can access the dataset from this link -:  https://drive.google.com/file/d/1_L3gYvLtwqT-Vxz6JVkQ70Voswmv78XP/view?usp=sharing
 
-ATTRIBUTE INFORMATION
+## ATTRIBUTE INFORMATION
 
 1. id : Unique ID for the customer
 
