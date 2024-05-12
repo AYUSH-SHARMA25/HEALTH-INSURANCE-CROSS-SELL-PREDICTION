@@ -62,3 +62,22 @@ You can access the dataset from this link -:  https://drive.google.com/file/d/1_
 ![Screenshot 2024-05-12 135514](https://github.com/AYUSH-SHARMA25/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/assets/110412915/be8e7be9-f54e-4b6c-be45-6a6a21f5112e)
 
 
+
+
+![Screenshot 2024-05-12 135423](https://github.com/AYUSH-SHARMA25/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/assets/110412915/2649a17e-53a3-4d40-acb2-4d6ce995fd81)
+
+
+
+
+# Models Trained 
+
+1. Logistic Regression
+2. Rondom Forest
+3. Decision Tree
+4. K Nearest Neighbour
+5. Naive Bayes
+
+# Models Performance
+
+
+![Screenshot 2024-05-12 140026](https://github.com/AYUSH-SHARMA25/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/assets/110412915/efc54494-939c-40c5-9c9a-9c4d12f19dd8)
