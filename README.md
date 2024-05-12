@@ -71,8 +71,8 @@ You can access the dataset from this link -:  https://drive.google.com/file/d/1_
 
 # Models Trained 
 
-1. Logistic Regression
-2. Rondom Forest
+1. Rondom Forest
+2. Logistic Regression
 3. Decision Tree
 4. K Nearest Neighbour
 5. Naive Bayes
