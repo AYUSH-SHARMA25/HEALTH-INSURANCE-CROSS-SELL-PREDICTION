@@ -41,3 +41,24 @@ You can access the dataset from this link -:  https://drive.google.com/file/d/1_
 11. Vintage : Number of Days, Customer has been associated with the company
 
 12. Response : 1 : Customer is interested, 0 : Customer is not interested
+
+
+
+# Visualizations 
+
+
+
+
+
+![Screenshot 2024-05-12 135411](https://github.com/AYUSH-SHARMA25/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/assets/110412915/603d1eac-a325-4d4e-b8cc-40189c09a471)
+
+
+
+![Screenshot 2024-05-12 135443](https://github.com/AYUSH-SHARMA25/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/assets/110412915/c71f7acc-5a8b-4b97-bbc6-7cdcee965c08)
+
+
+
+
+![Screenshot 2024-05-12 135514](https://github.com/AYUSH-SHARMA25/HEALTH-INSURANCE-CROSS-SELL-PREDICTION/assets/110412915/be8e7be9-f54e-4b6c-be45-6a6a21f5112e)
+
+
